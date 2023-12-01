@@ -1,0 +1,54 @@
+# Ignorer les fichiers temporaires générés par Unreal Engine
+Saved/
+Intermediate/
+DerivedDataCache/
+
+# Ignorer les fichiers de sauvegarde et de cache
+*.bak
+*.log
+*.sdf
+*.sln
+*.suo
+*.tmp
+*.pdb
+*.user
+*.dll
+*.exe
+*.db
+*.db-shm
+*.db-wal
+Binaries/
+DerivedDataCache/
+
+# Ignorer les fichiers spécifiques aux systèmes d'exploitation et aux éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Ignorer les fichiers de configuration personnelle
+*.orig
+*.rej
+
+# Ignorer les fichiers générés par le compilateur
+*.o
+*.obj
+*.a
+*.ilk
+*.pdb
+*.idb
+*.manifest
+*.tlog
+*.ipch
+*.aps
+*.opendb
+*.VC.db
+*.sbr
+
+# Ignorer les fichiers de sauvegarde de l'éditeur
+*~
+
+# Ignorer les fichiers temporaires
+_*
